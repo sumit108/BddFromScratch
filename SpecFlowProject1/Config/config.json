@@ -1,0 +1,7 @@
+{    
+        "BrowserName": "Chrome",
+        "IsHeadless": "No",
+        "IsWindowMaximize": "Yes",
+        "IsIncognito": "Yes"
+   
+}
