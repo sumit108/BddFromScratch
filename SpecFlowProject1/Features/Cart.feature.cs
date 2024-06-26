@@ -90,11 +90,11 @@ namespace DemoBddSaucelab.Features
         
         [NUnit.Framework.TestAttribute()]
         [NUnit.Framework.DescriptionAttribute("Add 1 item to cart")]
-        [NUnit.Framework.CategoryAttribute("tag1")]
+        [NUnit.Framework.CategoryAttribute("smoke")]
         public virtual void Add1ItemToCart()
         {
             string[] tagsOfScenario = new string[] {
-                    "tag1"};
+                    "smoke"};
             System.Collections.Specialized.OrderedDictionary argumentsOfScenario = new System.Collections.Specialized.OrderedDictionary();
             TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Add 1 item to cart", null, tagsOfScenario, argumentsOfScenario, this._featureTags);
 #line 11
@@ -132,12 +132,14 @@ this.FeatureBackground();
         
         [NUnit.Framework.TestAttribute()]
         [NUnit.Framework.DescriptionAttribute("Add multiple item to cart")]
+        [NUnit.Framework.CategoryAttribute("sanity")]
         public virtual void AddMultipleItemToCart()
         {
-            string[] tagsOfScenario = ((string[])(null));
+            string[] tagsOfScenario = new string[] {
+                    "sanity"};
             System.Collections.Specialized.OrderedDictionary argumentsOfScenario = new System.Collections.Specialized.OrderedDictionary();
             TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Add multiple item to cart", null, tagsOfScenario, argumentsOfScenario, this._featureTags);
-#line 17
+#line 18
 this.ScenarioInitialize(scenarioInfo);
 #line hidden
             bool isScenarioIgnored = default(bool);
@@ -166,10 +168,10 @@ this.FeatureBackground();
                             "Sauce Labs Backpack"});
                 table1.AddRow(new string[] {
                             "Sauce Labs Bolt T-Shirt"});
-#line 19
+#line 20
  testRunner.When("I add 2 item\'s to cart", ((string)(null)), table1, "When ");
 #line hidden
-#line 23
+#line 24
  testRunner.Then("2 Item shoud get added", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
 #line hidden
             }

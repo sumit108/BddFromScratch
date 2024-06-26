@@ -1,11 +1,13 @@
 using System;
+using System.Data;
 using DemoBddSaucelab.Pages;
+using DemoBddSaucelab.Utilities;
 using OpenQA.Selenium;
 using TechTalk.SpecFlow;
 
 namespace DemoBddSaucelab.StepDefinitions
 {
-    [Binding]
+    //[Binding]
     public class LoginPageStepDefinitions : BaseTest { 
         IWebDriver driver;
         LoginPageClass loginPageClass;
@@ -27,5 +29,16 @@ namespace DemoBddSaucelab.StepDefinitions
         {
             loginPageClass.Login(p1, p2);
         }
+
+        [When(@"I enter credentials")]
+        public void WhenIEnterCredentials(Table table)
+        {
+            var dataTable = TableExtensions.ToDataTable(table);
+            foreach (DataRow row in dataTable.Rows)
+            {
+                loginPageClass.Login(row.ItemArray[0].ToString(), row.ItemArray[1].ToString());                
+            }
+        }
+
     }
 }

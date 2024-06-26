@@ -112,6 +112,7 @@ D:\SpecFlowProject1\SpecFlowProject1\obj\Debug\net6.0\DemoBddSaucelab.GeneratedM
 D:\SpecFlowProject1\SpecFlowProject1\obj\Debug\net6.0\DemoBddSaucelab.AssemblyInfoInputs.cache
 D:\SpecFlowProject1\SpecFlowProject1\obj\Debug\net6.0\DemoBddSaucelab.AssemblyInfo.cs
 D:\SpecFlowProject1\SpecFlowProject1\obj\Debug\net6.0\DemoBddSaucelab.csproj.CoreCompileInputs.cache
+D:\SpecFlowProject1\SpecFlowProject1\obj\Debug\net6.0\DemoBddSaucelab.sourcelink.json
 D:\SpecFlowProject1\SpecFlowProject1\obj\Debug\net6.0\DemoBddS.E8F216A1.Up2Date
 D:\SpecFlowProject1\SpecFlowProject1\obj\Debug\net6.0\DemoBddSaucelab.dll
 D:\SpecFlowProject1\SpecFlowProject1\obj\Debug\net6.0\refint\DemoBddSaucelab.dll
