@@ -7,13 +7,14 @@ Background:
 	#Then Saucelab homepage should open
 	Then Sauce labs inventory product page opens
 	
-@tag1
+@smoke
 Scenario: Add 1 item to cart
 	#Given I open saucelabs webiste
 #Then Sauce labs inventory product page opens
 	When I add Sauce Labs Backpack to cart
 	Then 1 Item shoud get added
 
+@sanity
 Scenario: Add multiple item to cart
 	#Given I open saucelabs webiste
 	When I add 2 item's to cart
