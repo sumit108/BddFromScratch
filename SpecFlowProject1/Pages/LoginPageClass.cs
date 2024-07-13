@@ -10,6 +10,7 @@ namespace DemoBddSaucelab.Pages
             driver = _driver; 
         }
 
+         // Locators
         By LoginInputBoxLocator = By.Id("user-name");
         By PasswordInputBoxLocator = By.Id("password");
         By LoginButtonLocator = By.Id("login-button");

@@ -35,6 +35,7 @@ D:\SpecFlowProject1\SpecFlowProject1\bin\Debug\net6.0\Microsoft.VisualStudio.Tes
 D:\SpecFlowProject1\SpecFlowProject1\bin\Debug\net6.0\Newtonsoft.Json.dll
 D:\SpecFlowProject1\SpecFlowProject1\bin\Debug\net6.0\NuGet.Frameworks.dll
 D:\SpecFlowProject1\SpecFlowProject1\bin\Debug\net6.0\nunit.framework.dll
+D:\SpecFlowProject1\SpecFlowProject1\bin\Debug\net6.0\nunit.framework.legacy.dll
 D:\SpecFlowProject1\SpecFlowProject1\bin\Debug\net6.0\WebDriver.dll
 D:\SpecFlowProject1\SpecFlowProject1\bin\Debug\net6.0\TechTalk.SpecFlow.dll
 D:\SpecFlowProject1\SpecFlowProject1\bin\Debug\net6.0\SpecFlow.Internal.Json.dll
