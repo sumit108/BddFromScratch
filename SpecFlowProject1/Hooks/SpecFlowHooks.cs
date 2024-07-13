@@ -7,8 +7,6 @@ namespace DemoBddSaucelab.Hooks
     [Binding]
     internal class SpecFlowHooks
     {
-
-
         private readonly IObjectContainer container;
 
         public SpecFlowHooks(IObjectContainer container)
@@ -31,7 +29,6 @@ namespace DemoBddSaucelab.Hooks
             IWebDriver _driver = container.Resolve<IWebDriver>();
 
             _driver.Quit();
-            //driver.Close();
             _driver.Dispose();
         }
 

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DemoBddSaucelab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ecde9480342265a6d804693527525ff864dca779")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe1ccd4af6c7fab82194a9924b5406ede8997e90")]
 [assembly: System.Reflection.AssemblyProductAttribute("DemoBddSaucelab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DemoBddSaucelab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

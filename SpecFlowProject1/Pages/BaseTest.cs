@@ -13,11 +13,6 @@ namespace DemoBddSaucelab.Pages
     public class BaseTest
     {
         protected IWebDriver _driver;
-        //protected LoginPage LoginPage { get; }
-
-        /*public SpecflowBaseTest()
-        {
-        }*/
 
         public BaseTest(IWebDriver driver)
         {

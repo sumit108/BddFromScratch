@@ -83,7 +83,7 @@ namespace DemoBddSaucelab.Features
 #line 6
  testRunner.When("I enter username as standard_user and password as secret_sauce", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
 #line hidden
-#line 8
+#line 7
  testRunner.Then("Sauce labs inventory product page opens", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
 #line hidden
         }
@@ -97,7 +97,7 @@ namespace DemoBddSaucelab.Features
                     "smoke"};
             System.Collections.Specialized.OrderedDictionary argumentsOfScenario = new System.Collections.Specialized.OrderedDictionary();
             TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Add 1 item to cart", null, tagsOfScenario, argumentsOfScenario, this._featureTags);
-#line 11
+#line 10
 this.ScenarioInitialize(scenarioInfo);
 #line hidden
             bool isScenarioIgnored = default(bool);
@@ -120,11 +120,11 @@ this.ScenarioInitialize(scenarioInfo);
 #line 4
 this.FeatureBackground();
 #line hidden
-#line 14
+#line 12
  testRunner.When("I add Sauce Labs Backpack to cart", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
 #line hidden
-#line 15
- testRunner.Then("1 Item shoud get added", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
+#line 13
+ testRunner.Then("Item shoud get added", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
 #line hidden
             }
             this.ScenarioCleanup();
@@ -139,7 +139,7 @@ this.FeatureBackground();
                     "sanity"};
             System.Collections.Specialized.OrderedDictionary argumentsOfScenario = new System.Collections.Specialized.OrderedDictionary();
             TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Add multiple item to cart", null, tagsOfScenario, argumentsOfScenario, this._featureTags);
-#line 18
+#line 16
 this.ScenarioInitialize(scenarioInfo);
 #line hidden
             bool isScenarioIgnored = default(bool);
@@ -168,11 +168,11 @@ this.FeatureBackground();
                             "Sauce Labs Backpack"});
                 table1.AddRow(new string[] {
                             "Sauce Labs Bolt T-Shirt"});
-#line 20
- testRunner.When("I add 2 item\'s to cart", ((string)(null)), table1, "When ");
+#line 18
+ testRunner.When("I add item\'s to cart", ((string)(null)), table1, "When ");
 #line hidden
-#line 24
- testRunner.Then("2 Item shoud get added", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
+#line 22
+ testRunner.Then("Item shoud get added", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
 #line hidden
             }
             this.ScenarioCleanup();

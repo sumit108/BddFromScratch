@@ -1,21 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using DemoBddSaucelab.Properties;
-using DemoBddSaucelab.Utilities;
-using Microsoft.Extensions.Options;
+﻿using DemoBddSaucelab.Utilities;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 
 namespace DemoBddSaucelab.Drivers
-    
+
 {
     internal class WebDriverClass
     {
         ReadAndParseJsonFileWithNewtonsoftJson readAndParseJsonFileWithNewtonsoftJson = new ReadAndParseJsonFileWithNewtonsoftJson("D:\\SpecFlowProject1\\SpecFlowProject1\\Config\\config.json");
-
 
         public IWebDriver GetDriver()
         {

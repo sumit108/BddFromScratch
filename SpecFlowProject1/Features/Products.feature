@@ -1,5 +1,5 @@
 ﻿
-Feature: Feature1
+Feature: Product
 
 A short summary of the feature
 
