@@ -1,4 +1,5 @@
-using DemoBddSaucelab.Pages;
+using DemoBddSaucelab.Data;
+using DemoBddSaucelab.Utilities;
 using NUnit.Framework.Legacy;
 using OpenQA.Selenium;
 //[assembly: Parallelizable(ParallelScope.All)]
@@ -8,20 +9,26 @@ namespace SpecFlowProject1.StepDefinitions
 
     [Binding]
 
-    public class SaucelabHomepageStepDefinitions : BaseTest
+    public class SaucelabHomepageStepDefinitions : BasePage
     {
-        IWebDriver driver;
+        IWebDriver _driver;
         ScenarioContext _scenarioContext;
-        public SaucelabHomepageStepDefinitions(IWebDriver browser, ScenarioContext scenarioContext) : base(browser)
+        ActionClass actionClass;
+
+        public SaucelabHomepageStepDefinitions(IWebDriver driver, ScenarioContext scenarioContext)// : base(browser)
         {
-            driver = _driver;
+            _driver = driver;
             _scenarioContext = scenarioContext;
+            actionClass = new ActionClass(driver);
         }
+
+        // Locators
+        By ShoppingCartContainerId = By.Id("shopping_cart_container");
 
         [Given(@"I open saucelabs webiste")]
         public void GivenIOpenSaucelabsWebiste()
         {
-            driver.Navigate().GoToUrl("https://www.saucedemo.com/v1/inventory.html");             
+            actionClass.NavigateToUrl(Constants.InventoryUrl);             
         }
         
         [Then(@"Sauce labs inventory product page opens")]
@@ -33,14 +40,14 @@ namespace SpecFlowProject1.StepDefinitions
         [When(@"I add (.*) to cart")]
         public void WhenIAddItemToCart(string item)
         {
-            driver.FindElement(By.XPath("//div[text()='"+item+"']//parent::a//parent::div//parent::div//button[contains(@class,'btn_inventory')]")).Click();
+            _driver.FindElement(By.XPath("//div[text()='"+item+"']//parent::a//parent::div//parent::div//button[contains(@class,'btn_inventory')]")).Click();
             _scenarioContext["cartSize"] = 2;
         }
 
         [Then(@"Item shoud get added")]
         public void ThenItemShoudGetAdded()
         {
-            int cartItemsCount =Convert.ToInt32(driver.FindElement(By.XPath("//div[@id='shopping_cart_container']")).Text);
+            int cartItemsCount = Convert.ToInt32(actionClass.GetText(ShoppingCartContainerId));//("//div[@id='shopping_cart_container']")));
             ClassicAssert.AreEqual(cartItemsCount, _scenarioContext["cartSize"]);
         }
 
@@ -51,10 +58,9 @@ namespace SpecFlowProject1.StepDefinitions
             int counter=0;
             foreach (var row in table.Rows)
             {
-                driver.FindElement(By.XPath("//div[text()='" + row[0] + "']//parent::a//parent::div//parent::div//button[contains(@class,'btn_inventory')]")).Click();
+                _driver.FindElement(By.XPath("//div[text()='" + row[0] + "']//parent::a//parent::div//parent::div//button[contains(@class,'btn_inventory')]")).Click();
                 _scenarioContext["cartSize"]=++counter;
             }
         }
-
     }
 }

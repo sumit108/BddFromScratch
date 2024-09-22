@@ -1,3 +1,9 @@
+1,10,13,14,15,16,17,23,24,25,26,27,28,29,34,
+
+
+
 livingdoc test-assembly DemoBddSaucelab.dll -t TestExecution.json
 
 D:\SpecFlowProject1\SpecFlowProject1\bin\Debug\net6.0>nunit3-console.exe --out=TestResult.txt "--result=TestResult.xml;format=nunit2" DemoBddSaucelab.dll
+
+https://www.slideshare.net/slideshow/using-speckflow-for-bdd/39742396#14

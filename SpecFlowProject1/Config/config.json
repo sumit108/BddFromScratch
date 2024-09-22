@@ -1,6 +1,6 @@
 {    
         "BrowserName": "Chrome",
-        "IsHeadless": "Yes",
+        "IsHeadless": "No",
         "IsWindowMaximize": "Yes",
         "IsIncognito": "Yes"
    

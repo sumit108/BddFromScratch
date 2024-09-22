@@ -76,6 +76,10 @@
             "SpecFlow.Plus.LivingDocPlugin": {
               "target": "Package",
               "version": "[3.9.57, )"
+            },
+            "pickles": {
+              "target": "Package",
+              "version": "[4.0.3, )"
             }
           },
           "imports": [

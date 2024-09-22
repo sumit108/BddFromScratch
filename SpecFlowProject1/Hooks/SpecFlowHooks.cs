@@ -1,25 +1,23 @@
 ﻿using OpenQA.Selenium;
 using BoDi;
-using DemoBddSaucelab.Drivers;
+using DemoBddSaucelab.Utilities;
 
 namespace DemoBddSaucelab.Hooks
 {
     [Binding]
-    internal class SpecFlowHooks
+    internal class SpecFlowHooks:BasePage
     {
         private readonly IObjectContainer container;
-
+        private IWebDriver _driver;
         public SpecFlowHooks(IObjectContainer container)
         {
             this.container = container;
         }
-        public IWebDriver _driver;
-        WebDriverClass driverClass = new WebDriverClass();
 
         [BeforeScenario]
         public void DriverInitiate()
         {
-            _driver = driverClass.GetDriver();
+            _driver = InitializeDriver();
             container.RegisterInstanceAs(_driver);
         }
 
@@ -27,11 +25,8 @@ namespace DemoBddSaucelab.Hooks
         public void DriverDispose()
         {
             IWebDriver _driver = container.Resolve<IWebDriver>();
-
             _driver.Quit();
             _driver.Dispose();
         }
-
-
     }
 }

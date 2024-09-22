@@ -3,20 +3,52 @@
   "WorkspaceRootPath": "D:\\SpecFlowProject1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{315F2FDF-EA44-4759-80BA-389476ABADA8}|SpecFlowProject1\\DemoBddSaucelab.csproj|d:\\specflowproject1\\specflowproject1\\features\\products.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{315F2FDF-EA44-4759-80BA-389476ABADA8}|SpecFlowProject1\\DemoBddSaucelab.csproj|solutionrelative:specflowproject1\\features\\products.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{315F2FDF-EA44-4759-80BA-389476ABADA8}|SpecFlowProject1\\DemoBddSaucelab.csproj|d:\\specflowproject1\\specflowproject1\\stepdefinitions\\loginpagestepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{315F2FDF-EA44-4759-80BA-389476ABADA8}|SpecFlowProject1\\DemoBddSaucelab.csproj|solutionrelative:specflowproject1\\stepdefinitions\\loginpagestepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{315F2FDF-EA44-4759-80BA-389476ABADA8}|SpecFlowProject1\\DemoBddSaucelab.csproj|d:\\specflowproject1\\specflowproject1\\properties\\configjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{315F2FDF-EA44-4759-80BA-389476ABADA8}|SpecFlowProject1\\DemoBddSaucelab.csproj|solutionrelative:specflowproject1\\properties\\configjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{315F2FDF-EA44-4759-80BA-389476ABADA8}|SpecFlowProject1\\DemoBddSaucelab.csproj|d:\\specflowproject1\\specflowproject1\\stepdefinitions\\saucelabhomepagestepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{315F2FDF-EA44-4759-80BA-389476ABADA8}|SpecFlowProject1\\DemoBddSaucelab.csproj|solutionrelative:specflowproject1\\stepdefinitions\\saucelabhomepagestepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{315F2FDF-EA44-4759-80BA-389476ABADA8}|SpecFlowProject1\\DemoBddSaucelab.csproj|d:\\specflowproject1\\specflowproject1\\utilities\\actionclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{315F2FDF-EA44-4759-80BA-389476ABADA8}|SpecFlowProject1\\DemoBddSaucelab.csproj|solutionrelative:specflowproject1\\utilities\\actionclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{315F2FDF-EA44-4759-80BA-389476ABADA8}|SpecFlowProject1\\DemoBddSaucelab.csproj|d:\\specflowproject1\\specflowproject1\\data\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{315F2FDF-EA44-4759-80BA-389476ABADA8}|SpecFlowProject1\\DemoBddSaucelab.csproj|solutionrelative:specflowproject1\\data\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{315F2FDF-EA44-4759-80BA-389476ABADA8}|SpecFlowProject1\\DemoBddSaucelab.csproj|d:\\specflowproject1\\specflowproject1\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{315F2FDF-EA44-4759-80BA-389476ABADA8}|SpecFlowProject1\\DemoBddSaucelab.csproj|solutionrelative:specflowproject1\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{315F2FDF-EA44-4759-80BA-389476ABADA8}|SpecFlowProject1\\DemoBddSaucelab.csproj|d:\\specflowproject1\\specflowproject1\\config\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{315F2FDF-EA44-4759-80BA-389476ABADA8}|SpecFlowProject1\\DemoBddSaucelab.csproj|solutionrelative:specflowproject1\\config\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{315F2FDF-EA44-4759-80BA-389476ABADA8}|SpecFlowProject1\\DemoBddSaucelab.csproj|d:\\specflowproject1\\specflowproject1\\hooks\\specflowhooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{315F2FDF-EA44-4759-80BA-389476ABADA8}|SpecFlowProject1\\DemoBddSaucelab.csproj|solutionrelative:specflowproject1\\hooks\\specflowhooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{315F2FDF-EA44-4759-80BA-389476ABADA8}|SpecFlowProject1\\DemoBddSaucelab.csproj|d:\\specflowproject1\\specflowproject1\\drivers\\webdriverclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{315F2FDF-EA44-4759-80BA-389476ABADA8}|SpecFlowProject1\\DemoBddSaucelab.csproj|solutionrelative:specflowproject1\\drivers\\webdriverclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{315F2FDF-EA44-4759-80BA-389476ABADA8}|SpecFlowProject1\\DemoBddSaucelab.csproj|d:\\specflowproject1\\specflowproject1\\pages\\loginpageclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{315F2FDF-EA44-4759-80BA-389476ABADA8}|SpecFlowProject1\\DemoBddSaucelab.csproj|solutionrelative:specflowproject1\\pages\\loginpageclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{315F2FDF-EA44-4759-80BA-389476ABADA8}|SpecFlowProject1\\DemoBddSaucelab.csproj|d:\\specflowproject1\\specflowproject1\\properties\\configjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{315F2FDF-EA44-4759-80BA-389476ABADA8}|SpecFlowProject1\\DemoBddSaucelab.csproj|solutionrelative:specflowproject1\\properties\\configjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{315F2FDF-EA44-4759-80BA-389476ABADA8}|SpecFlowProject1\\DemoBddSaucelab.csproj|d:\\specflowproject1\\specflowproject1\\utilities\\setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{315F2FDF-EA44-4759-80BA-389476ABADA8}|SpecFlowProject1\\DemoBddSaucelab.csproj|solutionrelative:specflowproject1\\utilities\\setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{315F2FDF-EA44-4759-80BA-389476ABADA8}|SpecFlowProject1\\DemoBddSaucelab.csproj|d:\\specflowproject1\\specflowproject1\\config\\directory.build.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{315F2FDF-EA44-4759-80BA-389476ABADA8}|SpecFlowProject1\\DemoBddSaucelab.csproj|solutionrelative:specflowproject1\\config\\directory.build.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{315F2FDF-EA44-4759-80BA-389476ABADA8}|SpecFlowProject1\\DemoBddSaucelab.csproj|d:\\specflowproject1\\specflowproject1\\features\\products.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{315F2FDF-EA44-4759-80BA-389476ABADA8}|SpecFlowProject1\\DemoBddSaucelab.csproj|solutionrelative:specflowproject1\\features\\products.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +58,140 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Products.feature",
-              "DocumentMoniker": "D:\\SpecFlowProject1\\SpecFlowProject1\\Features\\Products.feature",
-              "RelativeDocumentMoniker": "SpecFlowProject1\\Features\\Products.feature",
-              "ToolTip": "D:\\SpecFlowProject1\\SpecFlowProject1\\Features\\Products.feature",
-              "RelativeToolTip": "SpecFlowProject1\\Features\\Products.feature",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAQAAAA",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAYhSURBVFhHnZd7TFNXHMe/ty1QHi2oyFMRRFGZrznF19zUGUPcjC4bD/1D90imLi7GzJiYuS3O6IwxS5YlxswsJkYHoqCZwTiyTNxUjNO4BVRERVHGWxnQCrS0d99zelta2iL4ab73nPNre8\u002B5v/M7v3OuguFSNEaB6gylwqEoBpYqSzv0SjciIu1YcV/74RBQVXXoAzgeb4ROmQAF09gaT42hoigH9R/t9VBRS92CXa3FumY77S/kxQMoijfAqcxkLY\u002BaT02loqmBOKlnVBVVTp2AzlCD3HphD4peKwND56LStIXXb9laTqVRRvFVAMTDRFCp1BzqDTgdLSi2VrMelMAeOJKqwGhLguLcw9Z6l/GlUPnZxhg5jPzGLs3mg78HVOquMQWKupu1fMogzG6iQ8wI1YXA5rRpFiBcb0S8cTSn3o4\u002BVYSEB4WfLBZdyDFV4pTFLy78BzAlwczrZuojKlKY3GSaM7B/5k5kjZqJh9bHeGprR6QhAutSc/D5pI1Ii0zBxdYK7dcewqkMPlg1VkU\u002BwGmreEQPOq3sR8WrvG6gTLLtRX7KaqmN6euRM3YlIvThSGWnOzI/w9tJy7Bt8qcwcGUGIJWe\u002BAShSrzW9uA7gKL4EP5QBFycy\u002BDLfcsjOFUVRn0YFsRmISY0Gq\u002BNmIaUCLEigXtdtZyCPlkfgOjnHWqlbHnhOwCnMpvXea6Gi9TIscgwpUtXl9SX4nzTBfQ4emHts8LB\u002Be6wd8HutKPWUoc9d77X/hUQEfAf42ySz7T7xsD7UVt5XeBqMNtEpeDQ7P1YnZyNV6In4XbnPZxvvICG7iaUt15BVUc1Ovs65SCOPCpEWVN5MA\u002B4iYcNBSi2PNXaclQuSpLDYXP8zprHA2vGvYuf5x2U9V5G/eXWa8j\u002BYy3dxmxMm1gJOkWHMF2o/N6pDppz3GxAftOPWt1rCmxOkUBGuRouzjX8hrMNZfiXT2yhyzPM6VgUO1d25l6GotNuR89QOxfM0kpJvwcKExbyepwaJ9saJkMUFo7OQqIxTg6kvOUyOx9Smg9GKT0gAlLiHYS\u002BAalhdTzHzfZKXG67hoq264N2rud0TIuegllcGSNCYzSrHyIveOjvVFEtvPpEkF7R45up21H2ZiHOLjqKssWFmMQVEYx9M3ai5PWfcHLBYRQv/AnZiUu0b3zw6cNrAEoLrz2uhotcJpsvMrdgekwmJprGIzZsJJp6WmTgCbkR\u002BVbwd3sVEjhV46PGYUncAhnA7u\u002B8qNNKSf8yzIl5zsNFNmsZLgMQExKNxXHzGWS9uPbsJr6q2s8l2IyVycsRZ4yVMRFliMSKpLdgNphwsa1C5gZhs3FfuNT2F04\u002B\u002BUW7m4dj3BOuavUBwzuRuJWnlO\u002B0lkyrYgBGbjZ3u\u002B7joeUJ9k7fgQ/S8nCF8bDpxna5CZUuOoaWnjZ8XXUAvzJRTTFPxOiwWNR0PUDd83rtbm7UOchvvq41Bg4gbgxUXQ1rPoHiZmr0ZFxdViqzYsXTG1hbsYlpOBnlS0ukq2931mDG\u002BaUDd0RvHkPnmIjcVs9W6hv5eS31vI/IPAHvMHvkDNm5g2tezHeHvVPGRA33AIEI0DTOfxDEPQ96dy7w345zTeJsN5e1ZJehnx5nr3Sv6PDQg6OyFElISAzsEpdqQd1pngsCpuM7dP9enLK2am2JX4gyDnjiVd9jbR\u002BVIm1epEel0m2KnFt3ThBBJxJVm\u002B0Z2m0d0jYALnEecHTqD8ht6dZsEv8BCArjeRBRPmRtFzVS2l4esW2UMs9sRlxzHQakhsADcFOQsJq/OMCamNiAJ40hcIU5ZgPyGsVp2Q//GPCm2FLNLVqsWbEqhCfEKWnwQftyi9O5hbn/htb2Y/ABCNabG2DHn\u002Bz3H7aaKXEsF4k\u002BhAqGiHjxbvAl1jSLMihDf5pzExR0WE38B89ffCrwjBeYXuoM3b6Hryq3saYxaFIQDMedLoqSI\u002BB07uAgdmoWgQg0ce5/SO2GOeoM3xEH7dhNwC14GIiOn1Ai4e\u002BColvF\u002BS4eaueC4XvgRKKR3fKFRV1CN4sgq5TxoetrYpYb8rHIzfAHUJDA/yh8eVFDYDB0IqfeJ7UOD\u002BB/6GsWIRcZqa4AAAAASUVORK5CYII=",
-              "WhenOpened": "2024-07-13T15:04:44.567Z",
+              "DocumentIndex": 2,
+              "Title": "ActionClass.cs",
+              "DocumentMoniker": "D:\\SpecFlowProject1\\SpecFlowProject1\\Utilities\\ActionClass.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\Utilities\\ActionClass.cs",
+              "ToolTip": "D:\\SpecFlowProject1\\SpecFlowProject1\\Utilities\\ActionClass.cs",
+              "RelativeToolTip": "SpecFlowProject1\\Utilities\\ActionClass.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAswCIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T07:51:03.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "config.json",
+              "DocumentMoniker": "D:\\SpecFlowProject1\\SpecFlowProject1\\Config\\config.json",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\Config\\config.json",
+              "ToolTip": "D:\\SpecFlowProject1\\SpecFlowProject1\\Config\\config.json",
+              "RelativeToolTip": "SpecFlowProject1\\Config\\config.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-22T07:48:51.086Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "SaucelabHomepageStepDefinitions.cs",
+              "DocumentMoniker": "D:\\SpecFlowProject1\\SpecFlowProject1\\StepDefinitions\\SaucelabHomepageStepDefinitions.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\StepDefinitions\\SaucelabHomepageStepDefinitions.cs",
+              "ToolTip": "D:\\SpecFlowProject1\\SpecFlowProject1\\StepDefinitions\\SaucelabHomepageStepDefinitions.cs",
+              "RelativeToolTip": "SpecFlowProject1\\StepDefinitions\\SaucelabHomepageStepDefinitions.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwDIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T07:29:52.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginPageStepDefinitions.cs",
+              "DocumentMoniker": "D:\\SpecFlowProject1\\SpecFlowProject1\\StepDefinitions\\LoginPageStepDefinitions.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\StepDefinitions\\LoginPageStepDefinitions.cs",
+              "ToolTip": "D:\\SpecFlowProject1\\SpecFlowProject1\\StepDefinitions\\LoginPageStepDefinitions.cs",
+              "RelativeToolTip": "SpecFlowProject1\\StepDefinitions\\LoginPageStepDefinitions.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAywCsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T07:12:56.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SpecFlowHooks.cs",
+              "DocumentMoniker": "D:\\SpecFlowProject1\\SpecFlowProject1\\Hooks\\SpecFlowHooks.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\Hooks\\SpecFlowHooks.cs",
+              "ToolTip": "D:\\SpecFlowProject1\\SpecFlowProject1\\Hooks\\SpecFlowHooks.cs",
+              "RelativeToolTip": "SpecFlowProject1\\Hooks\\SpecFlowHooks.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T07:20:14.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "D:\\SpecFlowProject1\\SpecFlowProject1\\Data\\Constants.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\Data\\Constants.cs",
+              "ToolTip": "D:\\SpecFlowProject1\\SpecFlowProject1\\Data\\Constants.cs",
+              "RelativeToolTip": "SpecFlowProject1\\Data\\Constants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T07:16:14.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Setup.cs",
+              "DocumentMoniker": "D:\\SpecFlowProject1\\SpecFlowProject1\\Utilities\\Setup.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\Utilities\\Setup.cs",
+              "ToolTip": "D:\\SpecFlowProject1\\SpecFlowProject1\\Utilities\\Setup.cs",
+              "RelativeToolTip": "SpecFlowProject1\\Utilities\\Setup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T07:12:39.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BasePage.cs",
+              "DocumentMoniker": "D:\\SpecFlowProject1\\SpecFlowProject1\\Pages\\BasePage.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\Pages\\BasePage.cs",
+              "ToolTip": "D:\\SpecFlowProject1\\SpecFlowProject1\\Pages\\BasePage.cs",
+              "RelativeToolTip": "SpecFlowProject1\\Pages\\BasePage.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T07:10:44.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Directory.Build.props",
+              "DocumentMoniker": "D:\\SpecFlowProject1\\SpecFlowProject1\\Config\\Directory.Build.props",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\Config\\Directory.Build.props",
+              "ToolTip": "D:\\SpecFlowProject1\\SpecFlowProject1\\Config\\Directory.Build.props",
+              "RelativeToolTip": "SpecFlowProject1\\Config\\Directory.Build.props",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-07-19T08:26:54.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Products.feature",
+              "DocumentMoniker": "D:\\SpecFlowProject1\\SpecFlowProject1\\Features\\Products.feature",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\Features\\Products.feature",
+              "ToolTip": "D:\\SpecFlowProject1\\SpecFlowProject1\\Features\\Products.feature",
+              "RelativeToolTip": "SpecFlowProject1\\Features\\Products.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-07-13T15:04:44.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ConfigJson.cs",
               "DocumentMoniker": "D:\\SpecFlowProject1\\SpecFlowProject1\\Properties\\ConfigJson.cs",
               "RelativeDocumentMoniker": "SpecFlowProject1\\Properties\\ConfigJson.cs",
@@ -56,28 +204,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "WebDriverClass.cs",
               "DocumentMoniker": "D:\\SpecFlowProject1\\SpecFlowProject1\\Drivers\\WebDriverClass.cs",
               "RelativeDocumentMoniker": "SpecFlowProject1\\Drivers\\WebDriverClass.cs",
               "ToolTip": "D:\\SpecFlowProject1\\SpecFlowProject1\\Drivers\\WebDriverClass.cs",
               "RelativeToolTip": "SpecFlowProject1\\Drivers\\WebDriverClass.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-13T15:02:17.669Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LoginPageClass.cs",
-              "DocumentMoniker": "D:\\SpecFlowProject1\\SpecFlowProject1\\Pages\\LoginPageClass.cs",
-              "RelativeDocumentMoniker": "SpecFlowProject1\\Pages\\LoginPageClass.cs",
-              "ToolTip": "D:\\SpecFlowProject1\\SpecFlowProject1\\Pages\\LoginPageClass.cs",
-              "RelativeToolTip": "SpecFlowProject1\\Pages\\LoginPageClass.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T15:01:24.701Z",
               "EditorCaption": ""
             }
           ]
